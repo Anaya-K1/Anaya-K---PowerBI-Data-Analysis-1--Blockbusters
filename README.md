@@ -23,9 +23,12 @@ The dashboard provides **interactive insights** with filters for **Movie, Genre,
 ## 📊 Dashboard Preview  
 
 ### Dashboard  
+pdf: https://github.com/Anaya-K1/Anaya-K---PowerBI-Data-Analysis-1--Blockbusters/blob/10b9d7c33906bbd85028a66ff73a6d668496c0b6/Anaya-K1%20Github%20PowerBI%201%20Dashboard-%20Blockbuster.pdf
 ![Dashboard Screenshot](Anaya-K1-Github-PowerBI%201%20Dashboard%20Review-%20Blockbuster.jpg)
 
 ### Dataset  
+pdf: https://github.com/Anaya-K1/Anaya-K---PowerBI-Data-Analysis-1--Blockbusters/blob/10b9d7c33906bbd85028a66ff73a6d668496c0b6/Anaya-K1%20Github%20PowerBI%201%20Dataset%20-%20Blockbuster.pdf
+
 ![Dataset Screenshot](Anaya-K1-Github-PowerBI%201%20Dataset%20Review-%20Blockbuster.jpg)
 
 ---
